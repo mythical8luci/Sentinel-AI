@@ -1,1 +1,10 @@
 # Sentinel-AI
+🍓 i love summer in the garden
+
+
+
+strawberryParser
+ crux 🍓
+ extends paragraphParser
+buildHtml
+permalink index.html
