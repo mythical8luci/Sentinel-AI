@@ -26,3 +26,7 @@ permalink index.html
     ]
 }
 
+Create a web interface for easier interaction
+
+yarn dev
+mythical8luci/Sentinel-AI.786
